@@ -1,6 +1,6 @@
 /**
  * Question 1
- */
+  hi*/
 const question1 = () => {
   const sidebarButton = document.getElementById("sidebar-button"); //get the sidebar button
   const sidebar = document.getElementById("sidebar"); //get the sidebar
